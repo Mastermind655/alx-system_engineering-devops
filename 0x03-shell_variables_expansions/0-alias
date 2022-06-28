@@ -1,2 +1,2 @@
 #!/bin/bash
-allas ls="rm*"
+allas ls "rm*"
